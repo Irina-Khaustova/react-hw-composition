@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Irina-Khaustova/react-hw-composition/static/css/main.b5d6f31d.css",
+    "main.js": "/Irina-Khaustova/react-hw-composition/static/js/main.ed65cf94.js",
+    "static/js/787.546f334d.chunk.js": "/Irina-Khaustova/react-hw-composition/static/js/787.546f334d.chunk.js",
+    "index.html": "/Irina-Khaustova/react-hw-composition/index.html",
+    "main.b5d6f31d.css.map": "/Irina-Khaustova/react-hw-composition/static/css/main.b5d6f31d.css.map",
+    "main.ed65cf94.js.map": "/Irina-Khaustova/react-hw-composition/static/js/main.ed65cf94.js.map",
+    "787.546f334d.chunk.js.map": "/Irina-Khaustova/react-hw-composition/static/js/787.546f334d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d6f31d.css",
+    "static/js/main.ed65cf94.js"
+  ]
+}
